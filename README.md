@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Ivael 👋
 
-<!--
-**Ivael/Ivael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about technology, coding, and continuous learning. Here you'll find a mix of personal, experimental, and collaborative projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: Various open source and personal projects
+- 🌱 Learning: Always exploring new technologies and frameworks
+- 💬 Ask me about: Software development, open source, and anything tech-related
+- 📫 How to reach me: [GitHub profile](https://github.com/Ivael)
+- ⚡ Fun fact: I love solving complex problems and automating repetitive tasks!
+
+## 🛠️ Technologies & Tools
+
+- Languages: Python, JavaScript, TypeScript, Go
+- Frameworks: React, Node.js, Express, Next.js
+- Tools: Git, Docker, VSCode, Linux
+
+## 📈 GitHub Stats
+
+![Ivael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivael&show_icons=true&theme=default)
+
+## 🗂️ Projects
+
+Check out my pinned repositories below or explore my public repos for more.
+
+---
+
+Thanks for visiting!  
+Let's connect and collaborate.
+
