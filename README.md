@@ -17,10 +17,6 @@ I'm passionate about technology, coding, and continuous learning. Here you'll fi
 - Frameworks: React, Node.js, Express, Next.js
 - Tools: Git, Docker, VSCode, Linux
 
-## 📈 GitHub Stats
-
-![Ivael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivael&show_icons=true&theme=default)
-
 ## 🗂️ Projects
 
 Check out my pinned repositories below or explore my public repos for more.
