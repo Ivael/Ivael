@@ -5,17 +5,17 @@ I'm passionate about technology, coding, and continuous learning. Here you'll fi
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: Various open source and personal projects
-- 🌱 Learning: Always exploring new technologies and frameworks
-- 💬 Ask me about: Software development, open source, and anything tech-related
-- 📫 How to reach me: [GitHub profile](https://github.com/Ivael)
-- ⚡ Fun fact: I love solving complex problems and automating repetitive tasks!
+- 🔭 Currently working on: Various open source and personal projects called SoloTask
+- 🌱 Learning: Currently learning GoLang
+- 💬 Ask me about: NodeJS, code instrumentation
+- 📫 How to reach me: yankamivael@gmail.com
+- ⚡ Fun fact: soccer ⚽, Video Games (PS gamer 🎮)
 
 ## 🛠️ Technologies & Tools
 
-- Languages: Python, JavaScript, TypeScript, Go
+- Languages: JavaScript, TypeScript, C#
 - Frameworks: React, Node.js, Express, Next.js
-- Tools: Git, Docker, VSCode, Linux
+- Tools: Git, Docker, VSCode
 
 ## 🗂️ Projects
 
