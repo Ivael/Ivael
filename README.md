@@ -6,7 +6,7 @@ I'm passionate about technology, coding, and continuous learning. Here you'll fi
 ## 🚀 About Me
 
 - 🔭 Currently working on: Various open source and personal projects called SoloTask
-- 🌱 Learning: Currently learning GoLang
+- 🌱 Learning: Currently learning Ruby on Rails and GoLang
 - 💬 Ask me about: NodeJS, code instrumentation
 - 📫 How to reach me: yankamivael@gmail.com
 - ⚡ Fun fact: soccer ⚽, Video Games (PS gamer 🎮)
