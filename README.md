@@ -24,7 +24,7 @@ Modern full-stack app with Vue 3 + Firebase featuring task management, notes, ca
 This description captures the key technologies (Vue 3, Firebase), main features (tasks, notes, calendar, notifications, collaboration), and deployment options while staying under typical GitHub description limits.
 
 - 🔗 Link : https://betatask-7a243.web.app/
-- 
+  
 ---
 
 Thanks for visiting!  
