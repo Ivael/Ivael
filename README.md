@@ -19,8 +19,11 @@ I'm passionate about technology, coding, and continuous learning. Here you'll fi
 
 ## 🗂️ Projects
 
-Check out my pinned repositories below or explore my public repos for more.
+Modern full-stack app with Vue 3 + Firebase featuring task management, notes, calendar view, real-time notifications, and collaborative shared lists. Includes Docker &  Firebase deployment.
 
+This description captures the key technologies (Vue 3, Firebase), main features (tasks, notes, calendar, notifications, collaboration), and deployment options while staying under typical GitHub description limits.
+
+- Link : https://betatask-7a243.web.app/ 
 ---
 
 Thanks for visiting!  
